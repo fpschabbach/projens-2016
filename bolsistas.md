@@ -31,6 +31,8 @@ Sexta: 8hrs - 10hrs
 Felipe Prato Schabbach
 ----------------------
 
+Terça: 18hrs - 20hrs Quarta: 15hrs - 17hrs Quinta: 14hrs - 18hrs
+
 Davi Tavares Ferreira
 ---------------------
 Terça: 8h -> 10h
